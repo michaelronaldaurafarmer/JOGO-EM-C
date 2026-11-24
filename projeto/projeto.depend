@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1795559658 source:c:\users\user\documents\filipe\t\projeto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1795559144 source:c:\users\user\documents\filipe\t\projeto\main.c
+	<stdio.h>
+	<string.h>
+

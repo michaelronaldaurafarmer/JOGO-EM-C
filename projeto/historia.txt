@@ -1,0 +1,7 @@
+No sertao, os acampamentos dos cangaceiros estao escondidos.
+
+Voce e um volante e recebeu a missao de encontrar os tres acampamentos.
+Cada lider ocupa um tamanho diferente no mapa.
+
+Digite uma linha e uma coluna para procurar os acampamentos.
+O simbolo X mostra um acerto e O mostra que voce encontrou nada.
